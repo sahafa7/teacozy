@@ -1,1 +1,68 @@
-/ *here we go */
+html {
+  font-family: Helvetica;
+  font-size: 22px;
+  color: seashell;
+  background-color: black;
+  opacity: 0.9;
+  text-align: center;
+}
+
+header {
+  height: 69px;
+  border-bottom: 1px solid seashell;
+  display: fixed;
+}
+
+div.logo {
+  height: 50px;
+  padding-left: 10px;
+}
+
+nav {
+    text-decoration: underline;
+}
+
+
+
+main {
+  width: 1200px;
+}
+
+div.mainproduct {
+  width: 1000px;
+
+}
+
+div.products {
+  display: flex;
+  justify-content: center;
+}
+
+div.product1 {
+  width: 300px;
+  height: 200px;
+}
+
+div.product2 {
+  width: 300px;
+  height: 200px;
+}
+
+div.product3 {
+  width: 300px;
+  height: 200px;
+}
+
+div.product4 {
+  width: 300px;
+  height: 200px;
+}
+
+div.product5 {
+  width: 300px;
+  height: 200px;
+}
+
+h2.products {
+  padding-top: 10px;
+}
